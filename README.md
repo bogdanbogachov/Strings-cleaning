@@ -1,5 +1,5 @@
 # Strings-cleaning
-The following code changes all commas to points in selected .txt files as well as finds specific record
+The following code changes all commas to points in selected .txt files as well as finds a specific record
 
 There are two different main scripts here:
 - from_comma_to_point
